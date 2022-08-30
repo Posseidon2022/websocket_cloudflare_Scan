@@ -1,4 +1,3 @@
-import ipcalc
 import socket,random,re
 import threading,configparser
 import requests,sys,time,os
